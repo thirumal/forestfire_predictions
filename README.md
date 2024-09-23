@@ -1,4 +1,5 @@
-Fire Weather Index Prediction
+Fire Weather Index Prediction:
+
 Overview
 This project aims to predict the Fire Weather Index (FWI) based on various meteorological and moisture-related factors. The FWI is a crucial metric in fire management and prevention, providing insights into fire behavior and risk.
 
